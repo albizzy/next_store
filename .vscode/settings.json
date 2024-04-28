@@ -1,0 +1,16 @@
+{
+    "vue.autoInsert.bracketSpacing": false,
+    "vue.autoInsert.parentheses": false,
+    "vue.codeActions.enabled": false,
+    "vue.codeLens.enabled": false,
+    "vue.doctor.status": false,
+    "vue.format.template.initialIndent": false,
+    "remote.WSL.downloadInBackground": false,
+    "remote.WSL.useShellEnvironment": false,
+    "yaml.completion": false,
+    "yaml.extension.recommendations": false,
+    "yaml.format.bracketSpacing": false,
+    "yaml.format.enable": false,
+    "yaml.hover": false,
+    "yaml.schemaStore.enable": false
+}
